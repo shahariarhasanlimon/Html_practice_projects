@@ -1,0 +1,41 @@
+/* h1{
+    font-size: 100px;
+    background: #eaffcd;
+}
+body{
+    background: #eaffcd;
+}
+a{
+    color: #000000;
+    font-size: 50px;
+    text-decoration: none;
+} */
+ /* img{
+    max-width: 90%;
+ } */
+
+/* table{
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid #000000;
+} */
+/* ul{
+    list-style-type: circle;
+} */
+/* h1, p, span, strong{
+    border: 1px solid red;
+} */
+ #title{
+    background: red;
+    color: #fff;
+    padding: 10px;
+ }
+ /* .button{
+    font-family: 'Courier New', Courier, monospace;
+ } */
+
+ iframe{
+    border: 0;
+ }
